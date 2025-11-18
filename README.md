@@ -1,8 +1,7 @@
-# WizardWave
 ![WizardWave Logo](assets/logo.png)
 
 **WizardWave** – a magical dark-pink radio player for wizards and dreamers. WizardWave streams your favorite radio stations with style, making your daily tasks feel spellbinding.  
-
+**[check Online player](https://blotterchains.github.io/WizardWave/)**
 ---
 
 ## Features
